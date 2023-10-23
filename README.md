@@ -1,3 +1,3 @@
 # Apnacollege-demo
-This is apna college repo
-Authoe-Nishant
+This is apna college repo.
+Author-Nishant
