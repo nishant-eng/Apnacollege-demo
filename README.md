@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is apna college repo.
 <br>
-Author-Nishant
+Author-Nishant(Pathak)
